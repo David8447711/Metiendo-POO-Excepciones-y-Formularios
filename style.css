@@ -1,0 +1,46 @@
+body {
+    background-color: #222;
+    color: white;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+.menu {
+    background-color: #333;
+    padding: 10px;
+}
+
+.menu a {
+    color: white;
+    margin-right: 15px;
+    text-decoration: none;
+}
+
+.menu a:hover {
+    text-decoration: underline;
+}
+
+.contenedor {
+    padding: 20px;
+}
+
+.enlace-volver {
+    color: yellow;
+    padding-top: 20px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+form {
+    margin-top: 15px;
+    background-color: #2a2a2a;
+    padding: 15px;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+input, button {
+    margin: 5px 0;
+    padding: 8px;
+    font-size: 14px;
+}
