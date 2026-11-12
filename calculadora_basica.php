@@ -10,7 +10,7 @@
     <?php require 'menu.php'; ?>
 
     <div class="contenedor">
-        <h2>Calculadora Básica (POO con Formulario)</h2>
+        <h2>Calculadora Básica</h2>
         <p>Introduce dos números y selecciona la operación:</p>
 
         <form method="POST" action="">

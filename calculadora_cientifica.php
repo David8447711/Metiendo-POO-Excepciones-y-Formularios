@@ -10,7 +10,7 @@
     <?php require 'menu.php'; ?>
 
     <div class="contenedor">
-        <h2>Calculadora Científica (Herencia y POO)</h2>
+        <h2>Calculadora Científica</h2>
         <p>Selecciona la operación científica que deseas realizar:</p>
 
         <form method="POST" action="">
